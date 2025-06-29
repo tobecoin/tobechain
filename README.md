@@ -12,7 +12,7 @@ https://pkg.go.dev/badge/github.com/ethereum/go-ethereum
 
 ## Building the source
 
-Building `tobe` requires both a Go (version 1.19 or later) and a C compiler. You can install
+Building `tobe` requires both a Go (version < go1.23.0) and a C compiler. You can install
 them using your favourite package manager. Once the dependencies are installed, run
 
 ```shell
